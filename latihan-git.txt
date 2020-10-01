@@ -3,4 +3,4 @@ latihan git
 -mengetahui command dasar Git
 -Integrasi Git
 -Melakukan Praktik Git
--Melakukan Kolaborasi Git
+-Melakukan Tugas Git
